@@ -1,6 +1,6 @@
 # GptPilot
 
-Official github : https://github.com/Pythagora-io/gpt-pilot
+Inspired by : https://github.com/Pythagora-io/gpt-pilot
 
 1.
 ![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0001](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/4969c9df-f2e4-483a-af7c-59c014ad54c5)
