@@ -1,32 +1,36 @@
 # GptPilot
 
-Inspired by : https://github.com/Pythagora-io/gpt-pilot
 
 1.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0001](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/4969c9df-f2e4-483a-af7c-59c014ad54c5)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0010](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/5b67142c-e891-47c9-8293-da419ae09af1)
 2.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0002](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/9d887748-9bb4-4787-8788-efc4b76734bf)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0011](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/63f2a091-1338-4a65-8c02-d698130ce984)
 3.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0003](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/7b65c614-7881-4bdc-8ca5-9d504b10eef0)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0012](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/4ced18c3-6055-4fbc-b168-e23d84b6d007)
 4.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0004](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/184dc70f-3e07-4468-a346-55d11dffaa39)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0013](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/0606039a-db46-4b6b-ba2a-74faacd07e5f)
 5.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0005](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/b0e22942-bb35-4876-a5fb-6a90d1160286)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0001](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/b39307da-186f-4f70-9879-23deba2ee7cd)
 6.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0006](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/173f2796-0fc8-43a8-81d7-6b0a9a3592ad)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0002](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/57b934e1-f78a-4a67-990b-5228c1404805)
 7.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0007](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/5664543d-7f09-492a-89de-ab554f8d44cd)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0003](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/3ed3ecf6-887b-4044-ae42-a2c4c32fc717)
 8.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0008](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/e0965690-3c41-4f4e-9bd0-4ab326961cc8)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0004](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/b4e116a4-5060-4108-8abe-7afb76125d3e)
 9.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0009](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/185b141b-56be-43da-9055-915171aa82d6)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0005](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/f85c2e55-58be-4add-ae82-8040e14edf99)
 10.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0010](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/c5d79016-aaad-4789-9f9a-f6b066f466c8)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0006](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/5db7ffe2-b7cb-421d-a5a9-107613c439a9)
 11.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0011](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/0311313e-f496-4f03-b539-27b19e6e14d9)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0007](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/1d214b70-6f01-4eb5-b7c2-70f6b4bb8496)
 12.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0012](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/3ce975ce-0572-44e6-9cf5-17580cb1e0d9)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0008](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/e425c84b-50d9-4ebf-a390-918e3e635659)
 13.
-![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0013](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/e41b55e5-9866-4f64-8964-a1d1052fa2d5)
+![Exploring-the-Future-of-App-Development-with-GPT-Pilot_page-0009](https://github.com/Rakib-data-scientist/GptPilot/assets/137823730/c6d9aef1-f979-4b55-9ad3-4dd5cf5fdb61)
+
+
+* Inspired by : https://github.com/Pythagora-io/gpt-pilot
+
+
 
 
